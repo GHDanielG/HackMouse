@@ -2,5 +2,6 @@
     "ver": 15,
     "marketURL": "market://details?id=com.digipox.hackmouse",
     "serverURL": "https://ghdanielg.github.io/HackMouse/",
+    "tutorialVid": "https://www.youtube.com/watch?v=AvXMI6uf7Zo&ab_channel=Digipox",
     "id": "https://hackmouse-fastapi-3.fly.dev/id/"
 }

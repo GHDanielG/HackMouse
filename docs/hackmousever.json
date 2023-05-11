@@ -1,4 +1,6 @@
 {
     "ver": 15,
+    "marketURL": "market://details?id=com.digipox.hackmouse",
+    "serverURL": "https://ghdanielg.github.io/HackMouse/",
     "id": "https://hackmouse-fastapi-3.fly.dev/id/"
 }

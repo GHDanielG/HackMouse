@@ -3,6 +3,7 @@
     "sid": "hackmouse_1y_ver_1_hoanets0239gsoeitant",
     "marketURL": "market://details?id=com.digipox.hackmouse",
     "serverURL": "https://ghdanielg.github.io/HackMouse/",
+    "google2oath": "https://www.googleapis.com/oauth2/v2/userinfo?access_token=%TOKEN%",
     "tutorialVid": "https://www.youtube.com/watch?v=AvXMI6uf7Zo&ab_channel=Digipox",
     "id": "https://hackmouse-fastapi-3.fly.dev/id/"
 }

@@ -1,4 +1,4 @@
-import{S as s,i as l,s as h,k as d,q as c,l as u,m as f,r as p,h as n,n as m,b as g,F as y,C as o}from"../../../chunks/index-052556dc.js";function b(i){let e,a;return{c(){e=d("div"),a=c(i[0]),this.h()},l(t){e=u(t,"DIV",{class:!0});var r=f(e);a=p(r,i[0]),r.forEach(n),this.h()},h(){m(e,"class","svelte-cpm42v")},m(t,r){g(t,e,r),y(e,a)},p:o,i:o,o,d(t){t&&n(e)}}}function v(i){return[`Creative Commons Legal Code
+import{S as s,i as l,s as h,k as d,q as c,l as u,m as f,r as p,h as n,n as m,b as g,F as y,C as o}from"../../../../chunks/index-052556dc.js";function b(i){let e,a;return{c(){e=d("div"),a=c(i[0]),this.h()},l(t){e=u(t,"DIV",{class:!0});var r=f(e);a=p(r,i[0]),r.forEach(n),this.h()},h(){m(e,"class","svelte-cpm42v")},m(t,r){g(t,e,r),y(e,a)},p:o,i:o,o,d(t){t&&n(e)}}}function v(i){return[`Creative Commons Legal Code
 
 CC0 1.0 Universal
 

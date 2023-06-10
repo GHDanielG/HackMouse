@@ -1,4 +1,4 @@
-import{S as r,i as c,s as u,k as l,q as h,l as p,m as d,r as y,h as n,n as g,b as f,F as m,C as i}from"../../../chunks/index-052556dc.js";function v(a){let e,s;return{c(){e=l("div"),s=h(a[0]),this.h()},l(o){e=p(o,"DIV",{class:!0});var t=d(e);s=y(t,a[0]),t.forEach(n),this.h()},h(){g(e,"class","svelte-cpm42v")},m(o,t){f(o,e,t),m(e,s)},p:i,i,o:i,d(o){o&&n(e)}}}function w(a){return[`HackMouse Privacy Policy
+import{S as r,i as c,s as u,k as l,q as h,l as p,m as d,r as y,h as n,n as g,b as f,F as m,C as i}from"../../../../chunks/index-052556dc.js";function v(a){let e,s;return{c(){e=l("div"),s=h(a[0]),this.h()},l(o){e=p(o,"DIV",{class:!0});var t=d(e);s=y(t,a[0]),t.forEach(n),this.h()},h(){g(e,"class","svelte-cpm42v")},m(o,t){f(o,e,t),m(e,s)},p:i,i,o:i,d(o){o&&n(e)}}}function w(a){return[`HackMouse Privacy Policy
 
 Thank you for using HackMouse. This Privacy Policy explains how we collect, use, and protect your information when you use our App. We are committed to ensuring the privacy and security of your information and strive to be transparent about our data practices.
 

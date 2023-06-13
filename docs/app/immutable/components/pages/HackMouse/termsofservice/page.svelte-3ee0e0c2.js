@@ -1,4 +1,4 @@
-import{S as s,i as l,s as h,k as d,q as c,l as u,m as f,r as p,h as n,n as m,b as g,F as y,C as o}from"../../../../chunks/index-052556dc.js";function b(i){let e,a;return{c(){e=d("div"),a=c(i[0]),this.h()},l(t){e=u(t,"DIV",{class:!0});var r=f(e);a=p(r,i[0]),r.forEach(n),this.h()},h(){m(e,"class","svelte-cpm42v")},m(t,r){g(t,e,r),y(e,a)},p:o,i:o,o,d(t){t&&n(e)}}}function v(i){return[`Creative Commons Legal Code
+import{S as s,i as l,s as h,x as d,y as c,z as u,f,t as p,A as m,k as g,q as y,l as b,m as v,r as w,h as n,n as k,b as C,H as W,C as x}from"../../../../chunks/index-8cf1c6c6.js";import{M as _}from"../../../../chunks/mainLayout-994f89cf.js";function R(r){let e,a;return{c(){e=g("div"),a=y(r[0]),this.h()},l(t){e=b(t,"DIV",{class:!0});var i=v(e);a=w(i,r[0]),i.forEach(n),this.h()},h(){k(e,"class","svelte-cpm42v")},m(t,i){C(t,e,i),W(e,a)},p:x,d(t){t&&n(e)}}}function A(r){let e,a;return e=new _({props:{$$slots:{default:[R]},$$scope:{ctx:r}}}),{c(){d(e.$$.fragment)},l(t){c(e.$$.fragment,t)},m(t,i){u(e,t,i),a=!0},p(t,[i]){const o={};i&2&&(o.$$scope={dirty:i,ctx:t}),e.$set(o)},i(t){a||(f(e.$$.fragment,t),a=!0)},o(t){p(e.$$.fragment,t),a=!1},d(t){m(e,t)}}}function $(r){return[`Creative Commons Legal Code
 
 CC0 1.0 Universal
 
@@ -111,4 +111,4 @@ express Statement of Purpose.
  	application (HackMouse the application or HackMouse the desktop
 	software) or utilizing it as part of a patent. Furthermore, the user 
 	cannot make any kind of copy right claims to the applicaton or make any
-	claims asserting ownership or authorship of the application.`]}class k extends s{constructor(e){super(),l(this,e,v,b,h,{})}}export{k as default};
+	claims asserting ownership or authorship of the application.`]}class L extends s{constructor(e){super(),l(this,e,$,A,h,{})}}export{L as default};

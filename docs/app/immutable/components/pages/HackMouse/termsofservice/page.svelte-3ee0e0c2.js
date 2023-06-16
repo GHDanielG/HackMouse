@@ -110,5 +110,4 @@ express Statement of Purpose.
  d. The user of the application is expressly prohibited from patenting the 
  	application (HackMouse the application or HackMouse the desktop
 	software) or utilizing it as part of a patent. Furthermore, the user 
-	cannot make any kind of copy right claims to the applicaton or make any
-	claims asserting ownership or authorship of the application.`]}class L extends s{constructor(e){super(),l(this,e,$,A,h,{})}}export{L as default};
+	cannot make any kind of copy right claims to the applicaton.`]}class L extends s{constructor(e){super(),l(this,e,$,A,h,{})}}export{L as default};

@@ -6,5 +6,5 @@
     "google2oath": "https://www.googleapis.com/oauth2/v2/userinfo?access_token=%TOKEN%",
     "tutorialVid": "https://www.youtube.com/watch?v=AvXMI6uf7Zo&ab_channel=Digipox",
     "id": "https://hackmouse-fastapi-3.fly.dev/id/",
-    "udmy": 10
+    "udmy": 8
 }
